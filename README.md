@@ -18,3 +18,4 @@ New conflict
 
 I want conflict
 >>>>>>> cd02cd533476b739273c2bfc20414e9e4b700841
+conflict
