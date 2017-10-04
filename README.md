@@ -12,4 +12,9 @@ Edited again in main branch!
 new conflict
 >>>>>>> 88a091bac7f47422316e89442905d0a572292a57
 
+<<<<<<< HEAD
 New conflict
+=======
+
+I want conflict
+>>>>>>> cd02cd533476b739273c2bfc20414e9e4b700841
