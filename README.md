@@ -18,5 +18,9 @@ New conflict
 
 I want conflict
 >>>>>>> cd02cd533476b739273c2bfc20414e9e4b700841
+<<<<<<< HEAD
 
 more changes
+=======
+conflict
+>>>>>>> 5e4756b0c9c51575d51120aa6121df1ec2467dc7
