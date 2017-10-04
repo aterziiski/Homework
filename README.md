@@ -11,3 +11,6 @@ Edited again in main branch!
 Edited again in main branch!
 new conflict
 >>>>>>> 88a091bac7f47422316e89442905d0a572292a57
+
+
+I want conflict
